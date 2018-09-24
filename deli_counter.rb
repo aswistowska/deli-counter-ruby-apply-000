@@ -17,7 +17,6 @@ def line(katz_deli)
 			print " #{count}. #{person}"
 			count += 1
 		end
-		puts ""
 	end
 end
 
